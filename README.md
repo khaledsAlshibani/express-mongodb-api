@@ -104,7 +104,7 @@ So Nodemon is used to automatically restart the Node.js application when file ch
    ```json
    "scripts": {
        "test": "echo \"Error: no test specified\" && exit 1",
-       "serve": "node app.js",
+       "start": "node app.js",
    +   "dev": "nodemon app.js"
    },
    ```
