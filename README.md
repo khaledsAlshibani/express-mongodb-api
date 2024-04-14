@@ -27,7 +27,7 @@ This repository contains a simple API created using Node.js and Express, connect
 - Mongoose (Object Data Modeling (ODM) library for MongoDB)
 - Nodemon (Tool for automatically restarting the node application)
 - Insomnia Core (open-source API testing platform)
-- 
+  
 ## Prerequisites
 Before proceeding, ensure you have the following knowledge and tools:
 - JavaScript knowledge
